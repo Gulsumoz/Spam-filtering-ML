@@ -1,0 +1,2 @@
+SMSSpamCollection.txt is for our first dataset
+british-english-sms-corpora_ham  &  british-english-sms-corpora_spam are for our second dataset
